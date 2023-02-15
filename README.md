@@ -2,7 +2,7 @@
 - 👀 I’m interested in Technology, Web Developer, Machine Learning and IoT
 - 🌱 I’m currently learning web Developer
 - 💞️ I’m looking to collaborate on github
-- 📫 How to reach me 
+- 📫 contact me by Email alfianardan99@gmail.com
 
 <!---
 Alfian0110/Alfian0110 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
